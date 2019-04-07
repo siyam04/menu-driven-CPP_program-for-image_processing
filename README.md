@@ -1,2 +1,2 @@
-# menu-driven-C-_program-for-image_processing
-Image processing using OpenCV and C++
+# Menu Driven C++ Program for Image Processing
+* Image processing using OpenCV and C++
