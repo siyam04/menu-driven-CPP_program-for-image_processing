@@ -91,7 +91,10 @@ int getSelection()
     }
     else
     {
+
         cout << "**INPUT ERROR!" << endl;
+        return -1;
+
     }
 
 }
